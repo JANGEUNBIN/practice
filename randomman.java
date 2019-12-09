@@ -12,7 +12,7 @@ public class randomman {
     dousa();
 
     // System.out.println("今日、" + name + "さんは" + get_Flag + "をします。");
-  
+    //　ここむずい
 }
   
   public static void dousa() {
@@ -36,8 +36,5 @@ public class randomman {
           System.out.println("勉強");
         break;
     }
-
-    System.out.println("今日、" + name + "さんは" + get_Flag + "をします。");
-    
   }
 }
