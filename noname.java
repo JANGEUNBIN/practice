@@ -1,3 +1,4 @@
+/*2019/12/02*/
 import java.util.Scanner;
 
 public class noname {

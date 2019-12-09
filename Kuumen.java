@@ -1,3 +1,4 @@
+/*2019/09/10*/
 import java.util.Scanner;
 
 public class Kuumen {

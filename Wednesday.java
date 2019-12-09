@@ -1,3 +1,4 @@
+/*2019/12/03*/
 import java.util.Scanner;
 
 public class Wednesday {
