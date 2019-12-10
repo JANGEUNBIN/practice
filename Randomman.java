@@ -10,7 +10,7 @@ public class Randomman {
     name = scanner.nextLine(); 
 
     String Ugoki = dousa();
-
+    
     System.out.println("今日、" + name + "さんは" + Ugoki + "をします。");
 }
   
