@@ -8,7 +8,7 @@ public class longcat {
     System.out.println("　----------- ");
     System.out.println(" m          m ");
  
-    for (int catBody = 0; catBody < 70; catBody++) {
+    for (int catBody = 0; catBody < 120; catBody++) {
        System.out.println(" |          | ");
       }
 
