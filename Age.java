@@ -10,7 +10,7 @@ public class Age {
                 int yourAge = scanner.nextInt();
                 yourAge++;
                 
-                System.out.println("2020年のあなたは" + yourAge + "歳です。");
+                System.out.println("2020年のあなたは" + yourAge + "歳ですね。");
                 break;
             }
         }
