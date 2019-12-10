@@ -24,19 +24,19 @@ public class Randomman {
 
         switch (get_Flag) {
           case 0:
-            Ugoki = "食事";
+            Ugoki = "おいしい食事";
             break;
           case 1:
-            Ugoki = "運動";
+            Ugoki = "頑張って運動";
             break;
           case 2:
-            Ugoki = "睡眠補充";
+            Ugoki = "眠いので睡眠補充";
             break;
           case 3:
-            Ugoki = "ゲーム";
+            Ugoki = "楽しいゲーム";
             break;
           default:
-            Ugoki = "勉強";
+            Ugoki = "取りあえず勉強";
           break;
         }
       return Ugoki;
