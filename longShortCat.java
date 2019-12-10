@@ -20,7 +20,6 @@ public class longShortCat {
       }
 
     System.out.println(" |          | ");
-    System.out.println(" |          | ");
     System.out.println(" | ｜---｜  | ");
     System.out.println(" | ｜ 　｜  | ");
     System.out.println(" | ｜ 　｜  | ");
@@ -29,11 +28,11 @@ public class longShortCat {
     
       if(longCatBody <= 10) {
         System.out.println("これは・・・長い猫ではありません・・・");
-      } else if (longCatBody >= 11 && longCatBody < 69) {
+      } else if (longCatBody >= 11 && longCatBody < 49) {
         System.out.println("長い猫です！");
-      } else if (longCatBody >= 70 && longCatBody < 99) {
+      } else if (longCatBody >= 50 && longCatBody < 79) {
         System.out.println("すごく長い猫です！!!");
-      } else if (longCatBody >= 100) {
+      } else if (longCatBody >= 80) {
         System.out.println("もはや猫ではありません!!!!!");
       } else {
 
