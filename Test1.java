@@ -1,5 +1,4 @@
 package com.example;
-/*ここ→https://invertko.tistory.com/71*/
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -34,3 +33,6 @@ public class Test1 extends HttpServlet {
        protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
           doGet(req, resp);
 }
+  
+  
+  /*ここから→https://invertko.tistory.com/71*/
