@@ -1,7 +1,7 @@
 /*2019/12/02*/
 import java.util.Scanner;
 
-public class age {
+public class Age {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
       

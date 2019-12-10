@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class longShortCat {
+public class LongShortCat {
   public static void main(String[] args) {
 
     int longCatBody;

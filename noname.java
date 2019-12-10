@@ -1,7 +1,7 @@
 /*2019/12/02*/
 import java.util.Scanner;
 
-public class noname {
+public class NoName {
     public static void main(String[] args) {
       hima();
     }
