@@ -35,7 +35,7 @@ public class LongShortCat {
       } else if (longCatBody >= 80) {
         System.out.println("もはや猫ではありません!!!!!");
       } else {
-
+        /*何もない*/
       }
     }
   }
