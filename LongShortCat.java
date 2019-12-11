@@ -8,23 +8,13 @@ public class LongShortCat {
     Scanner scanner = new Scanner(System.in);
     longCatBody = scanner.nextInt();
     
-    System.out.println("  ^---------^ ");
-    System.out.println("(  0       0  )");
-    System.out.println("( =    ▽    = )");
-    System.out.println("(     ＾ 　   )");
-    System.out.println("　----------- ");
-    System.out.println(" m          m ");
+    System.out.println("  ^---------^ \n(  0       0  )\n( =    ▽    = )\n(     ＾ 　   )\n　----------- \n m          m ");
  
     for (int catBody = 0; catBody < longCatBody; catBody++) {
        System.out.println(" |          | ");
       }
 
-    System.out.println(" |          | ");
-    System.out.println(" | ｜---｜  | ");
-    System.out.println(" | ｜ 　｜  | ");
-    System.out.println(" | ｜ 　｜  | ");
-    System.out.println(" | ｜ 　｜  | ");
-    System.out.println("  -- 　  --  ");
+    System.out.println(" |          | \n | ｜---｜  | \n | ｜ 　｜  | \n | ｜ 　｜  | \n  -- 　  --  ");
     
       if(longCatBody <= 10) {
         System.out.println("これは・・・長い猫ではありません・・・");
