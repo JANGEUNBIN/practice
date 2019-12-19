@@ -11,7 +11,7 @@ public class Randomman {
 
     String Ugoki = dousa();
     
-    // System.out.println("今日、" + name + "さんは" + Ugoki + "をします。");
+    System.out.println("今日、" + name + "さんは" + Ugoki + "をします。");
 }
   
 
@@ -42,6 +42,6 @@ public class Randomman {
               
         System.out.println("今日、" + Ugoki + "をします。");
 
-      return "あ";
+      return Ugoki;
   }
 }
